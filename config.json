@@ -1,0 +1,13 @@
+{
+  "smtp": {
+    "server": "smtp.piraten-mv.de",
+    "port": 25,
+    "username": "superadmin",
+    "password": "vollg3h3im"
+  },
+  "subject": "Das Arrr zum Sonntag",
+  "sender": {
+    "name": "Piraten MV Mitgliederbetreuung",
+    "address": "mitglieder@piraten-mv.de"
+  }
+}

@@ -1,0 +1,50 @@
+Flüssige Demokratie
+===================
+
+Auf geht es in eine neue Woche! Nachdem du nun langsam einen allgemeinen Überblick über die Piraten, ihre Strukturen und Kommunikationsmittel bekommen hast, wollen wir dir diese Woche einen einzigartigen Ansatz zur Meinungs- und Entscheidungsfindung näher bringen: Flüssige Demokratie.
+
+
+Liquid Democracy
+================
+
+Unter "Liquid Democracy" versteht man eine Mischform zwischen indirekter und direkter Demokratie. Während bei indirekter Demokratie ein Delegierter zur Vertretung der eigenen Interessen bestimmt wird und bei direkter Demokratie alle Interessen selbst wahrgenommen werden müssen, ergibt sich bei Liquid Democracy ein fließender Übergang zwischen direkter und indirekter Demokratie. Jeder Teilnehmer kann so selbst entscheiden, wie weit er seine eigenen Interessen wahrnehmen will, oder wie weit er von anderen vertreten werden möchte. Insbesondere kann der Delegat jederzeit sein dem Delegierten übertragenes Stimmrecht zurückfordern, und muss hierzu nicht bis zu einer neuen Wahlperiode warten. Es ergibt sich somit ein ständig im Fluss befindliches Netzwerk von Delegationen.
+
+Liquid Democracy erlaubt also gleichzeitig sowohl direkte, basisdemokratische Mitbestimmung als auch eine Übertragung der eigenen Stimme an einen Delegierten. So kann jeder je nach Thema, Abstimmung oder gerade verfügbarer Zeit zwischen direkter Teilnahme oder Delegation entscheiden. Ein Teilnehmer der flüssigen Demokratie könnte also sagen:
+
+"Für Steuerrecht möchte ich gerne durch die Partei SPD, für Umweltpolitik durch die Partei die Grünen und für die Schulpolitik durch die Privatperson Herrn Müller vertreten werden. Für die Entscheidung über das neue Hochschul-Zulassungsgesetz an den Universitäten möchte ich aber selbst abstimmen."
+
+
+Liquid Feedback
+===============
+
+Liquied Feedback (LQFB) ist die Umsetzung des Gedanken der flüssigen Demokratie in einer Software, die die Piratenpartei seit 2010 auf Bundesebene und auch in vielen Landesverbänden einsetzt.
+
+Liquid Feedback ist für dich erstmal eine Webseite, für die du einen einmaligen Zugangscode bekommst. Wenn du angemeldet bist kannst du in die basisdemokratische Entscheidungsfindung der Piratenpartei eingreifen. Du kannst eigene Vorschläge, sogenannte Initiativen, einbringen, andere verbessern und Anregungen formulieren. Die Möglichkeit, alternative Initiativen zu erstellen, erlaubt so konstruktive Arbeit jenseits von reiner Zustimmung und Ablehnung. Letztlich kann dann jedes Mitglied abstimmen - entweder selbst oder eben von einem anderen Piraten vertreten.
+
+Wir haben in Mecklenburg-Vorpommern Liquid Feedback genutzt, um große Teile unseres Landtagswahlprogrammes 2011 abzustimmen. Bundesweit können innerhalb von wenigen Tagen Meinungsbilder von Tausenden Piraten eingeholt werden ohne dass eine Mitgliederversammlung nötig wäre. Die Piraten im Berliner Abgeordnetenhaus nutzen Liquid Feedback in ihrer täglichen Arbeit in der Fraktion und können ihren gesamten Landesverband in die Entscheidungsfindung einbinden.
+
+
+Wie kannst du mitmachen?
+========================
+
+Jeder Pirat, der als Mitglied aufgenommen ist und seinen Mitgliedsbeitrag bezahlt hat, bekommt seine Zugänge zum Liquid Feedback des Bundes und für Mecklenburg-Vorpommern automatisch per E-Mail. In unserem Landesverband macht das der Generalsekretär, den wir dir letzten Sonntag vorgestellt haben. Allerdings kann es je nach Menge der Neumitglieder ein paar Wochen dauern, bis du deinen Zugang hast. Das liegt insbesondere daran, dass du Liquid Feedback auch mit einem Pseudonym nutzen kannst und die Zugänge gesondert verwaltet werden. Oft gestellte Fragen werden unter http://vorstand.piratenpartei-mv.de/zustaendigkeit/faq/liquid-feedback beantwortet.
+
+Falls du bis jetzt noch keinen Zugang bekommen hast, bitten wir dich noch um ein bisschen Geduld. Du kannst aber auch ohne Zugang schon einmal hereinschnuppern und dir die Initiativen ansehen:
+
+- Bundes-LQFB: https://lqfb.piratenpartei.de
+- Landes-LQFB: https://lqpp.de/mv
+
+
+Mehr Informationen
+==================
+
+Eine sehr gute Beschreibung gibt es unter http://wiki.piratenpartei.de/Liquid_Democracy und http://de.wikipedia.org/wiki/Liquid_Feedback. Unter http://larsreineke.de/liquid-feedback-video-tutorials gibt es weiterhin eine Reihe von sehr guten Videoanleitungen. Wenn es sonst noch Fragen gibt, frag einfach auf der Mailingliste oder auf deinem Stammtisch.
+
+
+Die Piraten-Woche auf einen Blick
+=================================
+
+{calendarentries}
+Auf der Seite http://piratenpartei-mv.de/kalender findest du auch stets einen Überblick über alle aktuellen Termine.
+
+Nächste Woche geht es dann ans Eingemachte: wie kann man in der Mitmachpartei eigentlich mitmachen? Wie kannst du dich einbringen und mit uns Politik gestalten? Bis dahin wünschen wir dir eine erfolgreiche Woche!
