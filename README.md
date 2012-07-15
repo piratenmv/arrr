@@ -50,7 +50,7 @@ Fertig!
 
 Nun kann mit
 
-   ./arr.py
+    ./arr.py
 
 die erste Runde Mails verschickt werden. In der Datei `user.json` wird nun pro Pirat vermerkt, welche Mails wann verschickt wurden und welche Mail die nächste ist.
 
